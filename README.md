@@ -1,4 +1,4 @@
-# Amiga-1200-rpi-Floppy-disk-read-write-iGreaseweazle-v4-interface
+# A-1200-rpi-Floppy-disk-read-write-iGreaseweazle-v4-interface
 
 Sistema di lettura floppy in Amiga 1200 raspberry pi 4B e Greaseweazle v4 sotto sistema
  operativo amibian. Colleganto un lettore floppy disk all interfaccia greaseweazle v4
